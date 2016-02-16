@@ -1,0 +1,10 @@
+var r = prompt("Welcome to The Daily Notification! Please type your name below.", "Name");
+        var r2;
+        if (r != null) {
+    document.getElementById("welcomeText").innerHTML = "Hello " + r + "! Welcome to The Daily Notification. Enjoy!";
+}
+        if(r === ""){
+        r2 = prompt("Please type your name in the box below.", "Name")
+        document.getElementById("welcomeText").innerHTML = "Hello " + r2 + "! Welcome to The Daily Notification. Enjoy!";
+        }
+        
