@@ -1,0 +1,13 @@
+<div id="titleDiv">
+        <i class="fa fa-bell fa-2x"></i>
+        
+        <h2 id="title">The Daily Notification</h2>
+        <p id="notifNum">1</p></div>
+        <p id="welcomeText"></p>
+        <div class="notif" id="contents">
+            <p class="bold">Table of Contents</p>
+            <ul>
+                <li><a href=""></a></li>
+                
+            </ul>
+        </div>
