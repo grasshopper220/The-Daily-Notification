@@ -1,0 +1,67 @@
+body{
+        background: lightgreen;
+        font-family: verdana;
+    }
+        #bellPic{
+            
+            height: 50px;
+        }
+        #title{
+            position: absolute;
+            top: 0px;
+            left:55px;
+            
+        }
+        #notifNum{
+            position: absolute;
+            top: -15px;
+            left: 47px;
+            color: white;
+            background: green;
+            font-family: Comic Sans MS;
+            padding:1px;
+        }
+        #titleDiv{
+            border: 6px white dotted;
+width: 350px;
+        }
+        .notif{
+            border: 6px white ridge;
+            background: white;
+            padding: 5px;
+            margin: 5px;
+        }
+        .date{
+            font-family: Comic Sans MS;
+        }
+        .center{
+            text-align: center;
+        }
+        #contents{
+            background: lightyellow;
+        }
+        .bold{
+            font-weight: bold;
+        }
+        .fa-bell {
+            color: rgb(0, 153, 41);
+            margin: 6px;
+        
+        }
+        a:hover{
+            background: lightgreen;
+        }
+        a:link{
+            color: black;
+        }
+        a:visited{
+            color: gray;
+
+        }
+        #GWpic{
+            border: 6px gold ridge;
+            width: 120px;
+        }
+        a:active{
+            color: red;
+        }
